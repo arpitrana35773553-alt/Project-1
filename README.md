@@ -1,2 +1,4 @@
 # Project-1
-This is my first Repository
+Author - Arpit Rana
+Profession - Student 
+
